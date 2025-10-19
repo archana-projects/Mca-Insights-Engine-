@@ -1,1 +1,6 @@
-
+[
+    {"CIN": "U15400TN2025PTC123456", "Change_Type": "New Incorporation", "Field_Changed": "N/A", "Old_Value": "N/A", "New_Value": "NEW VENTURES PVT LTD", "Date": "2025-10-18"},
+    {"CIN": "U01100KA2015PTC078200", "Change_Type": "Deregistered", "Field_Changed": "N/A", "Old_Value": "GREEN AGROTECH PVT LTD", "New_Value": "N/A", "Date": "2025-10-18"},
+    {"CIN": "U72200MH2008PTC187295", "Change_Type": "Status Change", "Field_Changed": "STATUS", "Old_Value": "Active", "New_Value": "Amalgamated", "Date": "2025-10-18"},
+    {"CIN": "L65990GJ1993PLC019131", "Change_Type": "Capital Modification", "Field_Changed": "AUTHORIZED_CAPITAL", "Old_Value": 5000000, "New_Value": 10000000, "Date": "2025-10-18"}
+]
